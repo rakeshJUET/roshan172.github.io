@@ -50,6 +50,7 @@ top:0;
     animation-iteration-count: infinite;
 }
 #b1{
+  margin-top: 2.5%;
   margin-left: 8%;
 }
 #b2{
@@ -57,9 +58,9 @@ top:0;
 
 }
 #b3{
-  margin-top: 3.5%;
+  margin-top: 3%;
   margin-left: 42%;
-  margin-bottom: 3.5%;
+  margin-bottom: 3%;
 }
 #b4{
   margin-left: 8%;
