@@ -1,17 +1,21 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
 body{
-  background-image: url(background.jpg);
+  background-image: url(backgroundnew.png);
   height: 100%; 
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+.opac{
+  height: 1000px;
+  width: 10000px;
+  opacity: 0.6;
+}
 .bodyContainer
 {
-background:rgba(1,1,1,0.6);
 position:absolute;
-top:0;
+top:0; 
 }
 .name{
   font-size: 450%;
