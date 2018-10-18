@@ -29,6 +29,7 @@ top:0;
     animation-iteration-count: infinite;
 }
 .intro{
+  margin-top: 4%;
   color: #FFFFFF;
   font-size: 200%;
   text-align: center;
