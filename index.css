@@ -7,16 +7,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-.opac{
-  height: 1000px;
-  width: 10000px;
-  opacity: 0.6;
-}
-.bodyContainer
-{
-  position:absolute;
-  top:0; 
-}
 .name{
   font-size: 450%;
   color: #1ed2f4;
