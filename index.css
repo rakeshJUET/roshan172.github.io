@@ -8,7 +8,7 @@ body{
   background-size: cover;
 }
 .name{
-  font-size: 450%;
+  font-size: 470%;
   color: #1ed2f4;
   margin-left: 2%;
   letter-spacing: 20px;
@@ -32,13 +32,13 @@ body{
   padding-bottom: 1%;
   width: 15%;
   border-style: solid;
-  border-color: #202020;
+  border-color: blue;
   background-color: #fdd947;
   font-size: 25px;
   font-family: 'Open Sans Condensed', sans-serif;
   border-radius: 30px;
   letter-spacing: 1px;
-  text-align: center;
+  text-align: left;
   cursor: pointer;
 }
 #b1{
